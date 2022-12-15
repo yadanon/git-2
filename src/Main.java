@@ -13,6 +13,7 @@ public class Main {
         listOfStrings.add("12");
         listOfStrings.add("bsdfbsb");
         printMap(getStatisticsOfCharsInList(listOfStrings));
+        System.out.println("AAAA");
     }
 
     @SuppressWarnings("java:S106")
